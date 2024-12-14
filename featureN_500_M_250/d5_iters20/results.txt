@@ -1,0 +1,17 @@
+Results for d=5, num_iters=20, N=500, M=250
+Accuracy: 0.4542372881355932
+Confusion Matrix:
+[[162  60  45]
+ [ 94  27  35]
+ [ 60  28  79]]
+Classification Report:
+              precision    recall  f1-score   support
+
+           0       0.51      0.61      0.56       267
+           1       0.23      0.17      0.20       156
+           2       0.50      0.47      0.48       167
+
+    accuracy                           0.45       590
+   macro avg       0.41      0.42      0.41       590
+weighted avg       0.43      0.45      0.44       590
+
